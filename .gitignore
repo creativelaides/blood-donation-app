@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Build
+frontend/dist/
+backend/bin/
+backend/obj/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Angular cache
+.angular/
